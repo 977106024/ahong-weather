@@ -1,0 +1,25 @@
+{
+  "name": "ahong-weather",
+  "version": "1.3.2",
+  "description": "天气命令行",
+  "main": "main.js",
+  "bin":{
+    "weather":"bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/977106024/ahong-weather.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "ahong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/977106024/ahong-weather/issues"
+  },
+  "homepage": "https://github.com/977106024/ahong-weather#readme"
+}
